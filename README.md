@@ -6,9 +6,9 @@ Simple starter using typescript.
 
 ## Feature tags
 - cra
-- typescript, ts
 - starter
 - template
+- typescript
 
 ## Direct ancestors
 
