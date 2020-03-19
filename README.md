@@ -20,7 +20,7 @@ Simple starter using typescript.
 ## Requirements
 
 * [*Node*](https://nodejs.org/en/download/package-manager/)
-* [*Typescript*](https://nodejs.org/en/download/package-manager/)
+* [*Typescript*](https://www.typescriptlang.org/#download-links)
 
 ## Author
 
