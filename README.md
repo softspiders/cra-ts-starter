@@ -8,6 +8,7 @@ Simple starter using typescript.
 - cra
 - typescript, ts
 - starter
+- template
 
 ## Direct ancestors
 
